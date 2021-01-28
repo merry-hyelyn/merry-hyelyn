@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name is hyelyn! 👋
 
 <!--
 **merry-hyelyn/merry-hyelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 I am Web developer  
+👩🏻‍💻 I wanna be full stack developer  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerry-hyelyn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=merry-hyelyn&theme=merko&show_icons=true)
